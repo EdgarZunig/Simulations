@@ -7,3 +7,6 @@ print (a*b)
 print("Hola_mundo")
 print("Leo")
 print(a**b)
+
+print(b**a)
+print(a - b)
